@@ -1,0 +1,9 @@
+[{"id":1, "nombre":"Cristian", "correo":"cristian@example.com", "empresa":"Tec de Monterrey", "telefono":"1234567890", "rol":"Desarrollador"}, 
+{"id":2, "nombre":"Ana", "correo":"ana@example.com", "empresa":"Banorte", "telefono":"0987654321", "rol":"Gerente"}, 
+{"id":3, "nombre":"Luis", "correo":"luis@example.com", "empresa":"Real Madrid", "telefono":"1111111111", "rol":"Jugador"},
+{"id":4, "nombre":"Maria", "correo":"maria@example.com", "empresa":"Barcelona", "telefono":"2222222222", "rol":"Jugador"},
+{"id":5, "nombre":"Pedro", "correo":"pedro@example.com", "empresa":"Mallorca", "telefono":"3333333333", "rol":"Jugador"},
+{"id":6, "nombre":"Sofia", "correo":"sofia@example.com", "empresa":"Real Madrid", "telefono":"4444444444", "rol":"Jugador"},
+{"id":7, "nombre":"Jorge", "correo":"jorge@example.com", "empresa":"Tec de Monterrey", "telefono":"5555555555", "rol":"Desarrollador"},
+{"id":8, "nombre":"Lucia", "correo":"lucia@example.com", "empresa":"Tec de Monterrey", "telefono":"6666666666", "rol":"Desarrollador"},
+{"id":9, "nombre":"Carlos", "correo":"carlos@example.com", "empresa":"Tec de Monterrey", "telefono":"7777777777", "rol":"Desarrollador"}]
